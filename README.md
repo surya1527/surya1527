@@ -1,6 +1,6 @@
 - 👋 Hi, I’m surya
 - 👀 I’m interested in Data Engineering
-- 🌱 I’m currently learning Data engineering by using aws services
+- 🌱 I’m currently working as a Data engineer.
 - 📫 How to reach me : suryasirigadhi@gmail.com 
 
 <!---
