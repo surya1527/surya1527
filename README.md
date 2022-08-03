@@ -10,6 +10,6 @@ You can click the Preview link to take a look at your changes.
 
 ### Snake Eating ######
 
-![snake gif](https://github.com/surya1527/surya1527/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/surya1527/surya1527/blob/output/github-contribution-grid-snake.svg)
 
 
